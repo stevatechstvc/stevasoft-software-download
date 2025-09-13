@@ -1,0 +1,1 @@
+- The Desclimer.txt file at the root of this Repository is true for the how Repository and all Released File/Programs.
