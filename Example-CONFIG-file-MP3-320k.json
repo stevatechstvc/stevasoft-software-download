@@ -55,7 +55,6 @@
   "CancellationCombinedTokenReqAbortedInSeconds": 30,
   "   Comment-waitBeforePlayerFirstCallDelayInSeconds": "[How many seconds to wait after part-creation has been started and before the init (Warm-up-phase) should start]",
   "waitBeforePlayerFirstCallDelayInSeconds": 20,
-  "   Comment-DelayInnerLoopCHKdbInMiliSec": "[On [Windows] keep it at lowest 5 or 10 or 15 Millisecond, on [Linux] keep it at lowest 5 or 10 or 15 Millisecond. This one searches for the right part with a loop, Keep it at 15ms for scalibility.]",
   "SignalingGroupSize": 2000,
   "MonitoringSuperKey": "0b05edb9-3184-474a-ba10-07c520480c6e",
   "MinDelayInnerLoopCHKdbInMiliSec": 45,
